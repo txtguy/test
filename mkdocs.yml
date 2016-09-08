@@ -1,5 +1,6 @@
 site_name: MkLorum
 pages:
 - Home: index.md
+- Python: python.md
 - About: about.md
 theme: readthedocs
